@@ -21,6 +21,3 @@ Key highlights include animated 3D models, parallax effects, and a sleek UI/UX d
 Feel free to fork, clone, or star this repository! ⭐  
 I’m continuously improving and adding new features, so stay tuned!
 
----
-
-Would you also like a shorter or more casual version, depending on where you're planning to post it? 🚀
